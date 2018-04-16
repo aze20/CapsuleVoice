@@ -1,0 +1,6 @@
+framework module Pods_CapsuleVoice {
+  umbrella header "Pods-CapsuleVoice-umbrella.h"
+
+  export *
+  module * { export * }
+}
